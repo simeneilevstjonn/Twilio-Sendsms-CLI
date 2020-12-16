@@ -35,7 +35,9 @@ Message: Hello, World
 
 If you want to schedule SMS', you should use the `at` command in unix.
 For example:
-`echo "sendsms +441134960000 Robot 'Hello world'" | at 1200 jan 1`
+```
+echo "sendsms +441134960000 Robot 'Hello world'" | at 1200 jan 1
+```
 
 The program will print the status code from Twilio's API, if the message was successfully sent, it will print `Status: accepted`.
 
