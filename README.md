@@ -1,7 +1,7 @@
 # Twilio-Sendsms-CLI
 A command line interface for Twilio's Programmable SMS API.
 
-A quick and easy way to send SMS from the command line using wilio's Programmable SMS API.
+A quick and easy way to send SMS from the command line using Twilio's Programmable SMS API.
 
 ## Installation
 
